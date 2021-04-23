@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "common_defs.h": "c",
+        "log.h": "c",
+        "dwt.h": "c",
+        "rcc.h": "c",
+        "clocks.h": "c"
+    }
+}
